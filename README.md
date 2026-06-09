@@ -77,7 +77,7 @@ I don’t just write apps — I build the systems events actually run on: regist
 <div align="left">
 
 [![CTX.works](https://img.shields.io/badge/CTX.works-0B1120?style=for-the-badge&logo=safari&logoColor=B8893A)](https://ctx.works)
-[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.akash@gmail.com)
+[![Email](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.akash7416@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918179882875)
 
 </div>
