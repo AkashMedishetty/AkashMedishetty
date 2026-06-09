@@ -61,7 +61,7 @@ I don’t just write apps — I build the systems events actually run on: regist
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkashMedishetty&show_icons=true&hide_border=true&bg_color=0B1120&title_color=B8893A&icon_color=4C1D95&text_color=F5F5F5&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkashMedishetty&show_icons=true&hide_border=true&bg_color=0B1120&title_color=B8893A&icon_color=4C1D95&text_color=F5F5F5"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashMedishetty&layout=compact&hide_border=true&bg_color=0B1120&title_color=B8893A&text_color=F5F5F5&langs_count=8"/>
 
 <img src="https://streak-stats.demolab.com/?user=AkashMedishetty&hide_border=true&background=0B1120&ring=B8893A&fire=4C1D95&currCommitNumber=true&sideNums=F5F5F5&sideLabels=F5F5F5&dates=B8893A&currStreakLabel=B8893A" width="80%"/>
