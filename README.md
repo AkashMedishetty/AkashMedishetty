@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E1B4B,100:4C1D95&height=200&section=header&text=Akash%20Medishetty&fontSize=58&fontColor=F5F5F5&fontAlignY=38&desc=Founder%20engineer%20·%20I%20build%20the%20tech%20behind%20conferences%20%26%20experiences&descSize=16&descAlignY=60&descColor=B8893A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E1B4B,100:4C1D95&height=200&section=header&text=Akash%20Medishetty&fontSize=58&fontColor=F5F5F5&fontAlignY=38&desc=Founder%20engineer%20·%20I%20build%20the%20tech%20behind%20conferences%20and%20experiences&descSize=16&descAlignY=60&descColor=B8893A" width="100%"/>
 
 <a href="https://ctx.works">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=B8893A&center=true&vCenter=true&width=720&lines=Co-founder+%26+sole+developer+%40+CTX.works;Computer+Vision+%C2%B7+Event+Tech+%C2%B7+Experiential+Systems;Shipping+EVCa+%E2%80%94+face-aware+event+photography;From+AWS+Rekognition+to+projection+mapping" alt="Typing tagline"/>
@@ -64,7 +64,7 @@ I don’t just write apps — I build the systems events actually run on: regist
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkashMedishetty&show_icons=true&hide_border=true&bg_color=0B1120&title_color=B8893A&icon_color=4C1D95&text_color=F5F5F5&include_all_commits=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashMedishetty&layout=compact&hide_border=true&bg_color=0B1120&title_color=B8893A&text_color=F5F5F5&langs_count=8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashMedishetty&hide_border=true&background=0B1120&ring=B8893A&fire=4C1D95&currCommitNumber=true&sideNums=F5F5F5&sideLabels=F5F5F5&dates=B8893A&currStreakLabel=B8893A" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=AkashMedishetty&hide_border=true&background=0B1120&ring=B8893A&fire=4C1D95&currCommitNumber=true&sideNums=F5F5F5&sideLabels=F5F5F5&dates=B8893A&currStreakLabel=B8893A" width="80%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=AkashMedishetty&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
 
